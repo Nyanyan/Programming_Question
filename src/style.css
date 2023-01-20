@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
 body {
-    font-family: "Arial", "Noto Sans JP";
+    font-family: "Noto Sans JP";
     width: 210mm;
     height: 297mm;
     box-sizing: border-box;
@@ -19,7 +19,7 @@ h1{
 }
 
 .chapter{
-    font-size: 12pt;
+    font-size: 14pt;
     font-weight: bold;
     color: white;
     background-color: #2c3e50;
@@ -33,14 +33,14 @@ h1{
 }
 
 .detail{
-    width: 37%;
-    font-size: 11pt;
+    width: 40%;
+    font-size: 13pt;
     font-weight: bold;
 }
 
 .example{
-    width: 33%;
-    font-size: 9pt;
+    width: 30%;
+    font-size: 8.5pt;
     font-weight: normal;
 }
 
