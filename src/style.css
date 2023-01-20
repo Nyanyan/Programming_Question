@@ -1,0 +1,23 @@
+html, body {
+    text-align: center;
+    font-family: "Arial", "メイリオ";
+}
+
+.col{
+    column-count: 2;
+}
+
+.chapter{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.section{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.example{
+    font-size: smaller;
+    font-weight: lighter;
+}
